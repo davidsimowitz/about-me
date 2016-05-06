@@ -15,26 +15,17 @@ Experience
 ----------
 ##### Trading Platform Delivery Engineer
 - Fidessa corporation*, June 2014 – July 2015*
-    - Designed and deployed customized solutions using proprietary programming languages and Tcl to satisfy client-driven requirements.
-    - Expedited delivery of product enhancements across numerous clients concurrently by updating a tool which modifies customized configuration files.
-    - Researched and answered intricate questions relating to product functionality by implementing software tracing.
-    - Responsible for supporting multiple clients by handling inbound communications.
+    - Trading Platform Delivery Engineers are responsible for implementing and maintaining Fidessa's multi-asset, sell-side trading platforms on a managed, Software as a Service (SaaS) basis. They also provide specialist consultancy services to our Enterprise client base and are responsible for the implementation and configuration of our Trading Platform software. This includes building new customer systems, performing software upgrades, enabling new functionality and handling customer change and enhancement requests.
 
 -
 ##### System Specialist
 - Fidessa corporation*, July 2013 – June 2014*
-    - Translated client goals into clear engineering requirements which could be tested against to prove adherence.
-    - Implemented, tested, and documented software solutions using proprietary programming languages and Tcl.
-    - Conducted upgrades by applying patches from core product to heavily modified client specific version.
-    - Performed requirements analysis on delta file processing and valuation strategy enhancements.
+    - System Specialists assist in the design, coding and testing of both client and server components of Fidessa; to implement new clients and services on Fidessa; and to aid in the maintenance of existing live clients through development of new functionality and upgrading of product versions.
 
 -
 ##### Implementation Specialist
 - Fidessa corporation*, August 2011 – June 2013*
-    - Member of implementation project to migrate a major international bank’s US equity, ADR member trading, and global order routing to Fidessa’s trading platform.
-    - Implemented new front-end functionality to calculate and display summary bar on the order fills grid for user highlighted fills in FTW (Fidessa Trader Workbench).
-    - Worked on server side customizations using proprietary programming languages, Tcl, and SQL.
-    - Assisted bank with Omgeo allocation matching and confirmation testing.
+    - Implementation Specialists work on client projects encompassing the whole software life cycle, integrating and configuring the Fidessa products to meet a customer’s needs.
 
 -
 Education
