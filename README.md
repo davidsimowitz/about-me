@@ -1,14 +1,16 @@
 David Simowitz
 ==============
 My expertise is quickly becoming up to date on a customized system's functionality, understanding its unique business requirements, and prioritizing, designing, and deploying vital software components based on environmental and time constraints. My experiences further include testing, debugging, responding to, and correcting critical issues. I love challenging roles that allow me to strengthen and grow my skills, especially where I will have an opportunity to make a profound difference.
+######[Website](http://www.davidsimowitz.com)
 ######[LinkedIn](https://www.linkedin.com/in/davidsimowitz)
 ######[Resume](https://github.com/davidsimowitz/about-me/blob/master/david_simowitz_resume.pdf)
 
 -
 Language/Tools
 --------------
-- C++ (expert), Python (intermediate), JavaScript (novice), HTML (novice), CSS (novice), SQL (rusty), MIPS assembly language (rusty), C (rusty), Java (rusty)
-- Code::Blocks, PyCharm, Git, Perforce, AWS, NGINX, Photoshop, Illustrator
+- C++ (expert), Python (proficient), HTML (proficient), CSS (proficient), JavaScript (prior experience), SQL (prior experience), Java (prior experience), MIPS assembly language (prior experience), C (prior experience)
+
+- Git, Perforce, AWS, Google Cloud, NGINX, Bootstrap, JQuery, Photoshop, Illustrator
 
 -
 Experience
