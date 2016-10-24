@@ -10,7 +10,7 @@ Language/Tools
 --------------
 - C++ (expert), Python (proficient), HTML (proficient), CSS (proficient), JavaScript (prior experience), SQL (prior experience), Java (prior experience), MIPS assembly language (prior experience), C (prior experience)
 
-- Git, Perforce, AWS, Google Cloud, NGINX, Bootstrap, JQuery, Photoshop, Illustrator
+- Git, Perforce, AWS, Google Cloud Platform, NGINX, Bootstrap, JQuery, Photoshop, Illustrator
 
 -
 Experience
