@@ -1,16 +1,48 @@
 David Simowitz
 ==============
-My expertise is quickly becoming up to date on a customized system's functionality, understanding its unique business requirements, and prioritizing, designing, and deploying vital software components based on environmental and time constraints. My experiences further include testing, debugging, responding to, and correcting critical issues. I love challenging roles that allow me to strengthen and grow my skills, especially where I will have an opportunity to make a profound difference.
+
+I'm a software engineer with expertise at quickly becoming up to date on a customized system's functionality, understanding its unique business requirements, and prioritizing, designing, and deploying vital software components based on environmental and time constraints. My experiences further include testing, debugging, responding to, and correcting critical issues.
+
+I love challenging roles that allow me to strengthen and grow my skills, especially where I will have an opportunity to make a profound difference.
+
+
 ###### [Website](http://www.davidsimowitz.com)
 ###### [LinkedIn](https://www.linkedin.com/in/davidsimowitz)
 ###### [Resume](https://github.com/davidsimowitz/about-me/blob/master/david_simowitz_resume.pdf)
 
 
-Language/Tools
---------------
-- C++ (proficient), Python (proficient), HTML (proficient), CSS (proficient), JavaScript (prior experience), SQL (prior experience), Java (prior experience), MIPS assembly language (prior experience), C (prior experience)
+Skills
+------
+- Languages: Python, C++, C, Java, SQL, HTML, CSS, JavaScript, MIPS assembly language
+- Frameworks: Flask, SQLAlchemy, Jinja, Knockout, Bootstrap, jQuery
+- Databases: PostgreSQL, SQLite, Sybase
+- Version Control: Git, Perforce
+- Virtualization: Vagrant
+- Servers: Apache, NGINX
+- Cloud Services: Google Cloud Platform, AWS
+- Graphics Editors: Photoshop, Illustrator
 
-- Git, Perforce, Google Cloud Platform, NGINX, Bootstrap, JQuery, Photoshop, Illustrator
+
+Projects
+--------
+##### [Coordinate App](http://itemcatalog.com.35.168.251.43.xip.io/)
+- Designed and implemented responsive web application—with user registration and authentication—that allows users to browse—as well as plan, update, and cancel—events by activity.
+- Created Attending/Considering user functionality with AJAX calls to take effect without reloading event page.
+- Achieved performance score of 100 using Lighthouse in Chrome DevTools.
+- Coded using Python, Flask, Jinja, SQLAlchemy, PostgreSQL, JavaScript, AJAX, JSON, HTML, CSS, and Vagrant.
+
+
+##### [Linux Server](http://itemcatalog.com.35.168.251.43.xip.io/)
+- Set up web application server—built from a baseline Linux installation—secured against a number of attack vectors and configured to serve the Coordinate App project.
+- Automated process of checking for, updating, and installing security packages each day to prevent system from being exploited through known software vulnerabilities.
+- Implemented using Ubuntu, Apache, and PostgreSQL.
+
+
+##### [Neighborhood Map](http://www.davidsimowitz.com/neighborhood-map/index.html)
+- Built single-page, responsive map application that allows users to view a list of neighborhood establishments.
+- Implemented list filter to update map markers and list locations with respect to search input immediately on each keystroke or other text entry mechanism.
+- Programmed application to display sourced venue data from Foursquare API upon user selection of map marker or list location.
+- Coded using JavaScript, AJAX, Knockout, HTML, and CSS.
 
 
 Experience
@@ -33,7 +65,7 @@ Experience
 Education
 ---------
 #### [Udacity](https://www.udacity.com/)
-- Nanodegree, Full Stack Web Developer _(in process)_
+- Nanodegree, Full Stack Web Developer _(December 2018)_
 
 
 #### State University of New York at Stony Brook
