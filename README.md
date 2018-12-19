@@ -1,7 +1,11 @@
 David Simowitz
 ==============
 
-I'm a software engineer with expertise at quickly becoming up to date on a customized system's functionality, understanding its unique business requirements, and prioritizing, designing, and deploying vital software components based on environmental and time constraints. My experiences further include testing, debugging, responding to, and correcting critical issues.
+I'm a full stack engineer with experience creating complex, server-side, data-driven web applications that support any front-end and can scale to support hundreds of thousands of users.
+
+As a back end developer in FinTech I was tasked with quickly becoming up to date on a customized system's functionality, understanding its unique business requirements, and prioritizing, designing, and deploying vital software components based on environmental and time constraints.
+
+My experiences further include testing, debugging, responding to, and correcting critical issues.
 
 I love challenging roles that allow me to strengthen and grow my skills, especially where I will have an opportunity to make a profound difference.
 
