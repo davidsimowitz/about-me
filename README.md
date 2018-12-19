@@ -51,19 +51,16 @@ Projects
 
 Experience
 ----------
-##### Trading Platform Delivery Engineer
-- Fidessa corporation, _June 2014 – July 2015_
-    - Trading Platform Delivery Engineers are responsible for implementing and maintaining Fidessa's multi-asset, sell-side trading platforms on a managed, Software as a Service (SaaS) basis. They also provide specialist consultancy services to our Enterprise client base and are responsible for the implementation and configuration of our Trading Platform software. This includes building new customer systems, performing software upgrades, enabling new functionality and handling customer change and enhancement requests.
+##### Trading Platform Delivery Engineer, Fidessa _(June 2014–July 2015)_
+  - Trading Platform Delivery Engineers are responsible for implementing and maintaining Fidessa's multi-asset, sell-side trading platforms on a managed, Software as a Service (SaaS) basis. They also provide specialist consultancy services to our Enterprise client base and are responsible for the implementation and configuration of our Trading Platform software. This includes building new customer systems, performing software upgrades, enabling new functionality and handling customer change and enhancement requests.
 
 
-##### System Specialist
-- Fidessa corporation, _July 2013 – June 2014_
-    - System Specialists assist in the design, coding and testing of both client and server components of Fidessa; to implement new clients and services on Fidessa; and to aid in the maintenance of existing live clients through development of new functionality and upgrading of product versions.
+##### System Specialist, Fidessa _(June 2013–June 2014)_
+  - System Specialists assist in the design, coding and testing of both client and server components of Fidessa; to implement new clients and services on Fidessa; and to aid in the maintenance of existing live clients through development of new functionality and upgrading of product versions.
 
 
-##### Implementation Specialist
-- Fidessa corporation, _August 2011 – June 2013_
-    - Implementation Specialists work on client projects encompassing the whole software life cycle, integrating and configuring the Fidessa products to meet a customer’s needs.
+##### Implementation Specialist, Fidessa _(August 2011–June 2013)_
+  - Implementation Specialists work on client projects encompassing the whole software life cycle, integrating and configuring the Fidessa products to meet a customer’s needs.
 
 
 Education
