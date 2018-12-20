@@ -66,7 +66,7 @@ Experience
 Education
 ---------
 #### [Udacity](https://www.udacity.com/)
-- Nanodegree, Full Stack Web Developer _(December 2018)_
+- [Nanodegree, Full Stack Web Developer](https://confirm.udacity.com/LG45ARTJ) _(December 2018)_
 
 
 #### State University of New York at Stony Brook
