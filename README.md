@@ -1,7 +1,7 @@
 David Simowitz
 ==============
 
-I'm a full stack engineer with experience creating complex, server-side, data-driven web applications that support any front-end and can scale to support hundreds of thousands of users.
+I'm a full stack engineer with experience creating complex, server-side, data-driven web applications that support any front-end.
 
 As a back end developer in FinTech I was tasked with quickly becoming up to date on a customized system's functionality, understanding its unique business requirements, and prioritizing, designing, and deploying vital software components based on environmental and time constraints.
 
@@ -18,7 +18,7 @@ I love challenging roles that allow me to strengthen and grow my skills, especia
 
 Skills
 ------
-- Languages: Python, C++, C, Java, SQL, HTML, CSS, JavaScript, MIPS assembly language
+- Languages: Python, JavaScript, SQL, HTML, CSS, C++, C, Java, MIPS assembly language
 - Frameworks: Flask, SQLAlchemy, Jinja, Knockout, Bootstrap, jQuery
 - Databases: PostgreSQL, SQLite, Sybase
 - Version Control: Git, Perforce
