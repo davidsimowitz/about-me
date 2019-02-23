@@ -13,6 +13,7 @@ I love challenging roles that allow me to strengthen and grow my skills, especia
 ###### [Website](http://www.davidsimowitz.com)
 ###### [LinkedIn](https://www.linkedin.com/in/davidsimowitz)
 ###### [Resume](https://github.com/davidsimowitz/about-me/blob/master/david_simowitz_resume.pdf)
+###### [Nanodegree](https://github.com/davidsimowitz/about-me/blob/master/david_simowitz_nanodegree.pdf)
 
 
 Skills
