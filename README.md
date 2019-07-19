@@ -1,7 +1,9 @@
 David Simowitz
 ==============
 
-I'm a full stack engineer with experience creating complex, server-side, data-driven web applications that support any front-end. I love challenging roles that allow me to strengthen and grow my skills, especially where I will have an opportunity to make a profound difference.
+I am a developer dedicated to designing and implementing elegant and efficient solutions to make everyone’s—the users' as well as my coworkers’—experience straightforward and streamlined.
+
+I love challenging roles that allow me to strengthen and grow my skills, especially where I will have an opportunity to make a profound difference.
 
 
 ###### [Website](http://www.davidsimowitz.com)
