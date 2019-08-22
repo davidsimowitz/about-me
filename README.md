@@ -1,7 +1,7 @@
 David Simowitz
 ==============
 
-I am a developer dedicated to designing and implementing elegant and efficient solutions to make everyone’s—the users' as well as my coworkers’—experience straightforward and streamlined.
+I am a software engineer dedicated to designing and implementing elegant and efficient solutions to make everyone’s—the users' as well as my coworkers’—experience straightforward and streamlined.
 
 I love challenging roles that allow me to strengthen and grow my skills, especially where I will have an opportunity to make a profound difference.
 
