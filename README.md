@@ -1,12 +1,12 @@
 David Simowitz
 ==============
 
-I am a software engineer dedicated to designing and implementing elegant and efficient solutions to make everyone’s—the users' as well as my coworkers’—experience straightforward and streamlined.
+I am a full stack engineer dedicated to designing and implementing elegant and efficient solutions to make everyone’s—the users' as well as my coworkers’—experience straightforward and streamlined.
 
 I love challenging roles that allow me to strengthen and grow my skills, especially where I will have an opportunity to make a profound difference.
 
 
-###### [Website](http://www.davidsimowitz.com)
+###### [Website](https://davidsimowitz.dev/)
 ###### [LinkedIn](https://www.linkedin.com/in/davidsimowitz)
 ###### [Resume](https://github.com/davidsimowitz/about-me/blob/master/david-simowitz-resume.pdf)
 ###### [Nanodegree](https://github.com/davidsimowitz/about-me/blob/master/david_simowitz_nanodegree.pdf)
@@ -34,7 +34,7 @@ Projects
 - Implemented using Apache, Ubuntu, PostgreSQL, and Amazon Lightsail.
 
 
-##### [Neighborhood Map](http://www.davidsimowitz.com/neighborhood-map/index.html)
+##### [Neighborhood Map](https://davidsimowitz.dev/neighborhood-map/index.html)
 - Built single-page, responsive map application that allows users to view a list of neighborhood establishments.
 - Implemented list filter to update map markers—from Google Maps API—and list locations with respect to search input immediately on each keystroke or other text entry mechanism.
 - Displayed venue data sourced from Foursquare API upon user selection of map marker or list location.
