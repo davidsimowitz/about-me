@@ -15,24 +15,47 @@ I love challenging roles that allow me to strengthen and grow my skills, especia
 
 Skills
 ------
-- Languages: Python, JavaScript, SQL
-- Version Control: Git
-- Tools: Vagrant
+- Languages: Python, JavaScript, SQL, HTML, CSS
+- Tools: Docker, Kubernetes, Jenkins, CircleCI, Vagrant, Git
+- Frameworks: Flask
 
 
 Projects
 --------
-##### [Coordinate App](http://itemcatalog.com.35.168.251.43.xip.io/)
-- Designed and implemented responsive web application—with user registration and authentication—that allows users to browse—as well as plan, update, and cancel—events by activity.
-- Created Attending/Considering user functionality with AJAX calls to take effect without reloading event page.
-- Achieved performance score of 100 using Lighthouse in Chrome DevTools.
-- Coded using Python, Flask, SQLAlchemy, Jinja, PostgreSQL, JavaScript, HTML, and CSS.
+##### Implemented a CI/CD Pipeline to Roll Out Containerized Microservices Using Rolling Deployment
+- Created a CI/CD pipeline to automate a rolling deployment strategy for a containerized web application using Jenkins, Docker, Kubernetes, NGINX, and Amazon EKS (Amazon Elastic Kubernetes Service).
+- Implemented continuous integration to lint web application, containerize it, scan the image for vulnerabilities, and store it on an image registry after validation.
+- Set up continuous deployment to deploy/update a Kubernetes cluster running the Docker container.
+
+
+##### Operationalize a Machine Learning Microservice API
+- Containerized a machine learning microservice api with Docker, that predicts housing prices in Boston using a pre-trained scikit-learn model.
+- Set up continuous integration using CircleCI to automate the process of building the testing environment, installing software dependencies, and building/validating the Docker image.
+- Deployed the Docker container to a local cluster using Kubernetes.
+
+
+##### Deploy a High-Availability Web App using CloudFormation
+- Created and deployed the infrastructure necessary to run a high-availability web application—distributed across multiple availability zones to increase fault tolerance—using AWS CloudFormation.
+- Increased application availability by automating the process of launching/terminating instances to match the capacity needed to handle the current traffic demand.
+- Converted initial business requirements into cloud architecture diagram using Lucidchart.
+
+
+##### Jenkins Pipelines on AWS
+- Installed and configured a Jenkins server on an AWS instance—authenticated for continuous deployment to an AWS S3 bucket configured to host a static website.
+- Created a CI/CD pipeline to perform code linting and automated deployment of a static site—triggered when code changes are pushed to a GitHub repository.
 
 
 ##### [Web Application Server](http://itemcatalog.com.35.168.251.43.xip.io/)
 - Set up web application server—built from a baseline Linux installation—secured against a number of attack vectors and configured to serve the Coordinate App project.
 - Automated process to check for, update, and install security packages each day to prevent system from being exploited through known software vulnerabilities
 - Implemented using Apache, Ubuntu, PostgreSQL, and Amazon Lightsail.
+
+
+##### [Coordinate App](http://itemcatalog.com.35.168.251.43.xip.io/)
+- Designed and implemented responsive web application—with user registration and authentication—that allows users to browse—as well as plan, update, and cancel—events by activity.
+- Created Attending/Considering user functionality with AJAX calls to take effect without reloading event page.
+- Achieved performance score of 100 using Lighthouse in Chrome DevTools.
+- Coded using Python, Flask, SQLAlchemy, Jinja, PostgreSQL, JavaScript, HTML, and CSS.
 
 
 ##### [Neighborhood Map](https://davidsimowitz.dev/neighborhood-map/index.html)
