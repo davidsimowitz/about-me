@@ -9,7 +9,8 @@ I love challenging roles that allow me to strengthen and grow my skills, especia
 ###### [Website](https://davidsimowitz.dev/)
 ###### [LinkedIn](https://www.linkedin.com/in/davidsimowitz)
 ###### [Resume](https://github.com/davidsimowitz/about-me/blob/master/david-simowitz-resume.pdf)
-###### [Nanodegree](https://github.com/davidsimowitz/about-me/blob/master/david-simowitz-nanodegree.pdf)
+###### [Cloud DevOps Engineer Nanodegree](https://github.com/davidsimowitz/about-me/blob/master/dsimowitz-cloud-devops-engineer-nanodegree.pdf)
+###### [Full Stack Web Developer Nanodegree](https://github.com/davidsimowitz/about-me/blob/master/dsimowitz-full-stack-web-developer-nanodegree.pdf)
 
 
 Skills
@@ -55,6 +56,10 @@ Experience
 Education
 ---------
 #### [Udacity](https://www.udacity.com/)
+- [Nanodegree, Cloud DevOps Engineer](https://confirm.udacity.com/HDDNJC6G) _(April 2020)_
+
+![Udacity Cloud DevOps Engineer Nanodegree](https://github.com/davidsimowitz/about-me/blob/master/david-simowitz-cde-nd.png)
+
 - [Nanodegree, Full Stack Web Developer](https://confirm.udacity.com/LG45ARTJ) _(December 2018)_
 
 ![Udacity Full Stack Web Developer Nanodegree](https://github.com/davidsimowitz/about-me/blob/master/david-simowitz-fswd-nd.png)
