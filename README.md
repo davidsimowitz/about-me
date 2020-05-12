@@ -57,7 +57,7 @@ Education
 #### [Udacity](https://www.udacity.com/)
 - [Nanodegree, Full Stack Web Developer](https://confirm.udacity.com/LG45ARTJ) _(December 2018)_
 
-![Udacity Full Stack Web Developer Nanodegree](https://github.com/davidsimowitz/about-me/blob/master/david-simowitz-nanodegree.png)
+![Udacity Full Stack Web Developer Nanodegree](https://github.com/davidsimowitz/about-me/blob/master/david-simowitz-fswd-nd.png)
 
 #### State University of New York at Stony Brook
 - Bachelor of Engineering, Computer Engineering _(May 2010)_
