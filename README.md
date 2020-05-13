@@ -21,7 +21,7 @@ Skills
 
 Projects
 --------
-##### Implemented a CI/CD Pipeline to Roll Out Containerized Microservices Using Rolling Deployment
+##### Implement a CI/CD Pipeline to Roll Out Containerized Microservices Using Rolling Deployment
 - Created a CI/CD pipeline to automate a rolling deployment strategy for a containerized web application using Jenkins, Docker, Kubernetes, NGINX, and Amazon EKS (Amazon Elastic Kubernetes Service).
 - Implemented continuous integration to lint web application, containerize it, scan image for vulnerabilities, and store it on an image registry after validation.
 - Set up continuous deployment to deploy/update a Kubernetes cluster running the Docker container.
