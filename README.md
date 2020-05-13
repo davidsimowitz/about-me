@@ -16,28 +16,27 @@ I love challenging roles that allow me to strengthen and grow my skills, especia
 Skills
 ------
 - Languages: Python, JavaScript, SQL, HTML, CSS
-- Tools: Docker, Kubernetes, Jenkins, CircleCI, Vagrant, Git
-- Frameworks: Flask
+- Tools: Docker, Kubernetes, Jenkins, CircleCI, Flask, Vagrant, Git, AWS
 
 
 Projects
 --------
 ##### Implemented a CI/CD Pipeline to Roll Out Containerized Microservices Using Rolling Deployment
 - Created a CI/CD pipeline to automate a rolling deployment strategy for a containerized web application using Jenkins, Docker, Kubernetes, NGINX, and Amazon EKS (Amazon Elastic Kubernetes Service).
-- Implemented continuous integration to lint web application, containerize it, scan the image for vulnerabilities, and store it on an image registry after validation.
+- Implemented continuous integration to lint web application, containerize it, scan image for vulnerabilities, and store it on an image registry after validation.
 - Set up continuous deployment to deploy/update a Kubernetes cluster running the Docker container.
 
 
 ##### Operationalize a Machine Learning Microservice API
-- Containerized a machine learning microservice api with Docker, that predicts housing prices in Boston using a pre-trained scikit-learn model.
+- Containerized a machine learning microservice API with Docker, that predicts housing prices in Boston using a pre-trained scikit-learn model.
 - Set up continuous integration using CircleCI to automate the process of building the testing environment, installing software dependencies, and building/validating the Docker image.
 - Deployed the Docker container to a local cluster using Kubernetes.
 
 
 ##### Deploy a High-Availability Web App using CloudFormation
-- Created and deployed the infrastructure necessary to run a high-availability web application—distributed across multiple availability zones to increase fault tolerance—using AWS CloudFormation.
-- Increased application availability by automating the process of launching/terminating instances to match the capacity needed to handle the current traffic demand.
-- Converted initial business requirements into cloud architecture diagram using Lucidchart.
+- Created and deployed the infrastructure necessary to run a high-availability web application using AWS CloudFormation, distributed across multiple availability zones to increase fault tolerance.
+- Increased application availability and decreased unused capacity by automating the process of launching/terminating instances to better match resources needed to handle the current traffic demand and save on infrastructure expenses.
+- Converted business requirements into cloud architecture diagram using Lucidchart as part of requirements analysis.
 
 
 ##### Jenkins Pipelines on AWS
@@ -45,20 +44,19 @@ Projects
 - Created a CI/CD pipeline to perform code linting and automated deployment of a static site—triggered when code changes are pushed to a GitHub repository.
 
 
-##### [Web Application Server](http://itemcatalog.com.35.168.251.43.xip.io/)
+##### [Configure a Linux Server to Host a Web Application](http://itemcatalog.com.35.168.251.43.xip.io/)
 - Set up web application server—built from a baseline Linux installation—secured against a number of attack vectors and configured to serve the Coordinate App project.
 - Automated process to check for, update, and install security packages each day to prevent system from being exploited through known software vulnerabilities
 - Implemented using Apache, Ubuntu, PostgreSQL, and Amazon Lightsail.
 
 
-##### [Coordinate App](http://itemcatalog.com.35.168.251.43.xip.io/)
-- Designed and implemented responsive web application—with user registration and authentication—that allows users to browse—as well as plan, update, and cancel—events by activity.
-- Created Attending/Considering user functionality with AJAX calls to take effect without reloading event page.
+##### [Build a RESTful Web Application](http://itemcatalog.com.35.168.251.43.xip.io/)
+- Designed and built a responsive, RESTful web application with persistent storage for users to view upcoming events using Python, Flask, SQLAlchemy, Jinja, PostgreSQL, JavaScript, HTML, and CSS.
+- Implemented user authentication and authorization to protect against CSRF (cross-site request forgery) attacks, to verify event ownership before updating/deleting events, and to enable users to mark events as attending/considering.
 - Achieved performance score of 100 using Lighthouse in Chrome DevTools.
-- Coded using Python, Flask, SQLAlchemy, Jinja, PostgreSQL, JavaScript, HTML, and CSS.
 
 
-##### [Neighborhood Map](https://davidsimowitz.dev/neighborhood-map/index.html)
+##### [Single-Page Map Application with Asynchronous API Requests](https://davidsimowitz.dev/neighborhood-map/index.html)
 - Built single-page, responsive map application that allows users to view a list of neighborhood establishments.
 - Implemented list filter to update map markers—from Google Maps API—and list locations with respect to search input immediately on each keystroke or other text entry mechanism.
 - Displayed venue data sourced from Foursquare API upon user selection of map marker or list location.
@@ -68,12 +66,9 @@ Projects
 
 Experience
 ----------
-##### System Specialist, Fidessa _(June 2013–July 2015)_
+##### System Specialist, Fidessa _(August 2011–July 2015)_
   - System Specialists assist in the design, coding and testing of both client and server components of Fidessa; to implement new clients and services on Fidessa; and to aid in the maintenance of existing live clients through development of new functionality and upgrading of product versions.
 
-
-##### Implementation Specialist, Fidessa _(August 2011–June 2013)_
-  - Implementation Specialists work on client projects encompassing the whole software life cycle, integrating and configuring the Fidessa products to meet a customer’s needs.
 
 
 Education
