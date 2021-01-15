@@ -67,7 +67,7 @@ Projects
 Experience
 ----------
 ##### System Specialist, Fidessa _(August 2011–July 2015)_
-  - System Specialists assist in the design, coding and testing of both client and server components of Fidessa; to implement new clients and services on Fidessa; and to aid in the maintenance of existing live clients through development of new functionality and upgrading of product versions.
+  - System Specialists assist in the design, coding, and testing of both client and server components of Fidessa; implement new clients and services on Fidessa; and aid in the maintenance of existing live clients through development of new functionality and upgrading of product versions.
 
 
 
